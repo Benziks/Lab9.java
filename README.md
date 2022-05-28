@@ -9,6 +9,6 @@ https://developer.accuweather.com/apis
 Выгрузить проект в репозиторий GitHub и добавить к нему описание в README (кратко, несколько строк пояснений по каждому заданию)
 Прикрепить ссылку на репозиторий в виде ответа на задание
 
-В этом задании я взял api Star Trek.
+В этом задании я взял api Star Trek Spacecraft.
 
 http://stapi.co/api-browser
